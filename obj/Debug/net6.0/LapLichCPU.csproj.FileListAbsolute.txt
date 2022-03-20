@@ -1,0 +1,15 @@
+D:\C#\LapLichCPU\bin\Debug\net6.0\LapLichCPU.exe
+D:\C#\LapLichCPU\bin\Debug\net6.0\LapLichCPU.deps.json
+D:\C#\LapLichCPU\bin\Debug\net6.0\LapLichCPU.runtimeconfig.json
+D:\C#\LapLichCPU\bin\Debug\net6.0\LapLichCPU.dll
+D:\C#\LapLichCPU\bin\Debug\net6.0\ref\LapLichCPU.dll
+D:\C#\LapLichCPU\bin\Debug\net6.0\LapLichCPU.pdb
+D:\C#\LapLichCPU\obj\Debug\net6.0\LapLichCPU.csproj.AssemblyReference.cache
+D:\C#\LapLichCPU\obj\Debug\net6.0\LapLichCPU.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\LapLichCPU\obj\Debug\net6.0\LapLichCPU.AssemblyInfoInputs.cache
+D:\C#\LapLichCPU\obj\Debug\net6.0\LapLichCPU.AssemblyInfo.cs
+D:\C#\LapLichCPU\obj\Debug\net6.0\LapLichCPU.csproj.CoreCompileInputs.cache
+D:\C#\LapLichCPU\obj\Debug\net6.0\LapLichCPU.dll
+D:\C#\LapLichCPU\obj\Debug\net6.0\ref\LapLichCPU.dll
+D:\C#\LapLichCPU\obj\Debug\net6.0\LapLichCPU.pdb
+D:\C#\LapLichCPU\obj\Debug\net6.0\LapLichCPU.genruntimeconfig.cache
